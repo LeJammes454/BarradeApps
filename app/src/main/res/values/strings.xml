@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Toolbar</string>
+    <string name="titulo_fav">Favorito</string>
+    <string name="txtBtn">Acceder</string>
+    <string name="txtSearch">Search</string>
+    <string name="txtShare">compartir</string>
+</resources>
